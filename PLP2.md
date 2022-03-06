@@ -25,7 +25,8 @@ Names of classes and objects start with an uppercase letter and use camel case.<
 Names of functions, properties and local variables start with a lowercase letter and use camel case and no underscores.<br>
 Names of constants should use uppercase underscore-separated names.<br>
 Names of top-level or object properties which hold objects with behavior or mutable data should use camel case names.<br>
-Note: The above conventions are the standards in the community and not automatically enforced by the compiler.<br>
+More details about Kotlin naming rules: https://kotlinlang.org/docs/coding-conventions.html#naming-rules<br>
+<u>Note</u>: <i>The above conventions are the standards in the community and not automatically enforced by the compiler</i>.<br>
   <br>
 3. Kotlin is a statically-typed language, where the type of the variable is known at compile time.<br>
   <br>
