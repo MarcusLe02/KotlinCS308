@@ -12,7 +12,7 @@ Are those enforced by the compiler/interpreter, or just standards in the communi
 8.	What are the operators available for each data type?<br>
 9.	Are mixed type operations allowed? If so, how are they accommodated?<br>
 <br>
-<h3>Answers<h3>
+<h3>Answers</h3>
 1. There are four types of keywords in Kotlin (which are all recommended to avoid using):<br>
 a. Hard keywords – 24 hard keywords cannot be used as identifiers in any situations<br>
 b. Soft keywords – 17 soft keywords that act as a keyword in a certain context, but can be used as identifiers in another context<br>
