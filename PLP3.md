@@ -40,5 +40,5 @@ Below is an example code of "when" statement:<br>
 }<br><br>
     </code>
 <h3>Resources</h3>
-- Kotlin If ... Else: https://www.w3schools.com/kotlin/kotlin_conditions.php
-- Implement a Switch Case Statement in Kotlin: https://www.delftstack.com/howto/kotlin/implement-switch-case-in-kotlin/
+<li>Kotlin If ... Else: https://www.w3schools.com/kotlin/kotlin_conditions.php</li><br>
+<li>Implement a Switch Case Statement in Kotlin: https://www.delftstack.com/howto/kotlin/implement-switch-case-in-kotlin/</li><br>
